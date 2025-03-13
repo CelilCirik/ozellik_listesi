@@ -1,0 +1,4 @@
+1. Kullanıcı dostu arayüz
+2. Karanlık mod desteği
+3. Çoklu dil desteği
+4. Bildirim özelleştirme
