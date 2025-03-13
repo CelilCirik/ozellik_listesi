@@ -1,5 +1,5 @@
 1. Çoklu dil desteği
 2. Karanlık mod desteği
-3. Kullanıcı dostu arayüz
-4. Bildirim özelleştirme
-5. Otamatik güncelleme
+3. Bildirim özelleştirme
+4. Otomatik güncelleme
+5. Kullanıcı dostu arayüz
